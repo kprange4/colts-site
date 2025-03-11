@@ -4,7 +4,7 @@
 .DS_Store
 
 # Exclude everything in WP root…
-/wordpress/wp-content
+/wordpress/*
 
 # … except wp-content.
 !/wordpress/wp-content
